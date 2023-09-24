@@ -1,4 +1,4 @@
-**Tool Name: EviGuard - Digital Evidence Chain of Custody Tool**
+* EviGuard - Digital Evidence Chain of Custody Tool*
 
 **Description:**
 
